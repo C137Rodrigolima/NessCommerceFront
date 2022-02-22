@@ -2,7 +2,7 @@
 
 A Ecommerce Web Site written in React where you can shoppe!
 
-Try it now [here](http://ness-commerce-front.vercel.app/)
+Try it now [here](https://nesscommerce.vercel.app/)
 
 ## About
 
